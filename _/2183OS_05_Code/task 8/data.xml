@@ -1,0 +1,21 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Company 1</field>
+  <field name="x">56.4</field>
+  <field name="y">40.2</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Company 2</field>
+  <field name="x">50.1</field>
+  <field name="y">48.9</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Company 3</field>
+  <field name="x">23.18</field>
+  <field name="y">39.1</field>
+ </doc>
+</add>
+

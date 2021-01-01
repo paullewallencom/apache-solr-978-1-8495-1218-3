@@ -1,0 +1,23 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Super Mazda</field>
+  <field name="price">50</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Mercedes Benz</field>
+  <field name="price">210</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Bentley</field>
+  <field name="price">290</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="name">Super Honda</field>
+  <field name="price">99.90</field>
+ </doc>
+</add>
+

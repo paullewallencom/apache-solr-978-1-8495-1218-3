@@ -1,0 +1,4 @@
+id;name;isbn;description;publish_date
+1;Solr cookbook;ABC123456;"Solr Cookbook";2011-06
+2;Some book 1;JHDS871281;"Some book";2010-01
+3;Some book 2;9182KSC98;"Another book";2010-02

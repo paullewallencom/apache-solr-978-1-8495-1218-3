@@ -1,0 +1,27 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Super Mazda car</field>
+  <field name="category">sport</field>
+  <field name="manufacturer">mazda</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Mercedes Benz car</field>
+  <field name="category">limousine</field>
+  <field name="manufacturer">mercedes</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Bentley car</field>
+  <field name="category">limousine</field>
+  <field name="manufacturer">bentley</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="name">Super Honda car</field>
+  <field name="category">sport</field>
+  <field name="manufacturer">honda</field>
+ </doc>
+</add>
+

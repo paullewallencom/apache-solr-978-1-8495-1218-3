@@ -1,0 +1,18 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Solr cookbook</field>
+  <field name="author">Rafal Kuc</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">Solr results</field>
+  <field name="author">John Doe</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="title">Solr perfect search</field>
+  <field name="author">John Doe</field>
+ </doc>
+</add>
+

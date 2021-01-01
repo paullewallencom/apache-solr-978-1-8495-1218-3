@@ -1,0 +1,18 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Solrcook book revised</field>
+  <field name="sold">5</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">Some book revised</field>
+  <field name="sold">200</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="title">Another revised book</field>
+  <field name="sold">60</field>
+ </doc>
+</add>
+

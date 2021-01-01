@@ -1,0 +1,20 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Company one</field>
+  <field name="geoX">10.1</field>
+  <field name="geoY">10.1</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Company two</field>
+  <field name="geoX">11.1</field>
+  <field name="geoY">11.1</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Company three</field>
+  <field name="geoX">12.2</field>
+  <field name="geoY">12.2</field>
+ </doc>
+</add>

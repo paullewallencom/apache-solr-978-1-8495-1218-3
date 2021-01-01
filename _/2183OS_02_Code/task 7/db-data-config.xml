@@ -1,0 +1,12 @@
+<dataConfig>
+ <dataSource driver="org.postgresql.Driver" url="jdbc:postgresql://localhost:5432/users" user="users" password="secret" />
+ <document>
+  <entity name="user" query="SELECT user_id, user_name from users">
+   <field column="user_id" name="id" />
+   <field column="user_name " name="name" />
+    <entity name="user_desc" query="select desc from users_description where user_id=${user.user_id}">
+    <field column="desc" name="description" />
+   </entity>
+  </entity>
+ </document>
+</dataConfig>

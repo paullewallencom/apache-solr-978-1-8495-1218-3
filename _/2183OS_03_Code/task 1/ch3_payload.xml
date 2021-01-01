@@ -1,0 +1,12 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="text">ugly human</field>
+  <field name="speech">ugly|3 human|6</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="text">big book example</field>
+  <field name="speech">big|3 book|6 example|1</field>
+ </doc>
+</add>

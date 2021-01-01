@@ -1,0 +1,21 @@
+<dataConfig>
+ <dataSource driver="org.postgresql.Driver" url="jdbc:postgresql://localhost:5432/users" user="users" password="secret" />
+ <script><![CDATA[
+  function splitName(row) {
+   var nameTable = row.get('name').split(' ');
+   row.put('firstname', nameTable[0]);
+   row.put('surname', nameTable[1]);
+   row.remove('name');
+   return row;
+  }
+ ]]></script>
+ <document>
+  <entity name="user" transformer="script:splitName" query="SELECT id, name, description from users">
+   <field column="id" />
+   <field column="firstname" />
+   <field column="surname" />
+   <field column="description" />
+   </entity>
+  </entity>
+ </document>
+</dataConfig>

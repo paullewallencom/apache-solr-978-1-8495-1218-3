@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<solr>
+ <cores adminPath="/admin/cores/">
+  <core name="en" instanceDir="cores/en">
+   <property name="dataDir" value="cores/en/data" />
+  </core>
+  <core name="de" instanceDir="cores/de">
+   <property name="dataDir" value="cores/de/data" />
+  </core>
+ </cores>
+</solr>

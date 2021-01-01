@@ -1,0 +1,17 @@
+<add overwrite="true" commitWithin="10000">
+ <doc>
+  <field name="id">1</field>
+  <field name="isbn">ABC1234</field>
+  <field name="name" boost="2">Some Book</field>
+ </doc>
+ <doc boost="2.5">
+  <field name="id">2</field>
+  <field name="isbn">ZYVW9821</field>
+  <field name="name" boost="2">Important Book</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="isbn">NXJS1234</field>
+  <field name="name" boost="2">Some other book</field>
+ </doc>
+</add>

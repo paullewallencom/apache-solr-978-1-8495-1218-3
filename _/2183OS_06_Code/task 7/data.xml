@@ -1,0 +1,22 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">House 1</field>
+  <field name="city">New York</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">House 2</field>
+  <field name="city">Washington</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">House 3</field>
+  <field name="city">Washington</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="name">House 4</field>
+  <field name="city">San Francisco</field>
+ </doc>
+</add>

@@ -1,0 +1,9 @@
+<add>
+ <doc>
+  <field name="name_s">Solr Cookbook</field>
+  <field name="name_t">Solr Cookbook</field>
+  <field name="price_d">19.99</field>
+  <field name="quantity_i">12</field>
+  <field name="available_b">true</field>
+ </doc>
+</add>

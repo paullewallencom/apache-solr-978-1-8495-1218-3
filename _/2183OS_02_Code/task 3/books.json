@@ -1,0 +1,29 @@
+{
+"add": {
+ "overwrite": true,
+ "doc": {
+  "id": 1,
+  "name": "Some book",
+  "author": ["John", "Marry"]
+ }
+}
+,
+"add": {
+ "overwrite": true,
+ "boost": 2.5,
+ "doc": {
+  "id": 2,
+  "name": "Important Book",
+  "author": ["Harry", "Jane"]
+ }
+}
+,
+"add": {
+  "overwrite": true,
+  "doc": {
+  "id": 3,
+  "name": "Some other book",
+  "author": "Marry"
+ }
+}
+}

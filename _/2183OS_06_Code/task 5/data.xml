@@ -1,0 +1,26 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Company 1</field>
+  <field name="city">New York</field>
+  <field name="state">New York</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Company 2</field>
+  <field name="city">New Orleans</field>
+  <field name="state">Luiziana</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Company 3</field>
+  <field name="city">New York</field>
+  <field name="state">New York</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="name">Company 4</field>
+  <field name="city">New York</field>
+  <field name="state">New York</field>
+ </doc>
+</add>

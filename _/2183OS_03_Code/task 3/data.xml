@@ -1,0 +1,12 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr Cookbook</field>
+  <field name="author">John Kowalsky</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Some other book</field>
+  <field name="author">Jane Kowalsky</field>
+ </doc>
+</add>

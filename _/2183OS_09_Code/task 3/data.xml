@@ -1,0 +1,18 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr Cookbook first edition</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Solr Cookbook second edition</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="name">Solr by example first edition</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="name">My book second edition</field>
+ </doc>
+</add>

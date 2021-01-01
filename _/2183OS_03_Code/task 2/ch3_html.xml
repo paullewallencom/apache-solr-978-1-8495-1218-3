@@ -1,0 +1,6 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="html"><![CDATA[<html><head><title>My page</title></head><body><p>This is a <b>my</b> <i>sample</i> page</body></html>]]></field>
+ </doc>
+</add>

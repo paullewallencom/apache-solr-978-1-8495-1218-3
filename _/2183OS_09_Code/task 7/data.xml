@@ -1,0 +1,6 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Company name</field>
+ </doc>
+</add>

@@ -1,0 +1,7 @@
+﻿<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Test document</field>
+  <field name="description">ABC1234DEF BL-123_456 adding-documents</field>
+ </doc>
+</add>

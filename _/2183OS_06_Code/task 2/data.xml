@@ -1,0 +1,23 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Lucene or Solr ?</field>
+  <field name="added">2010-12-06T12:12:12Z</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">My Solr and the rest of the world</field>
+  <field name="added">2010-12-07T11:11:11Z</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="title">Solr recipes</field>
+  <field name="added">2010-11-30T12:12:12Z</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="title">Solr cookbook</field>
+  <field name="added">2010-11-29T12:12:12Z</field>
+ </doc>
+</add>
+

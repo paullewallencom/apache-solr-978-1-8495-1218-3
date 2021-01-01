@@ -1,0 +1,12 @@
+<dataConfig>
+ <dataSource type="FileDataSource" encoding="UTF-8" />
+ <document>
+  <entity name="page" processor="XPathEntityProcessor" stream="true" forEach="/mediawiki/page/" url="/solrcookbook/data/enwiki-20100904-pages-articles.xml" transformer="RegexTransformer">
+   <field column="id" xpath="/mediawiki/page/id" />
+   <field column="name" xpath="/mediawiki/page/title" />
+   <field column="revision_id" xpath="/mediawiki/page/revision/id" />
+   <field column="contents" xpath="/mediawiki/page/revision/text" />
+   <field column="$skipDoc" regex="^#REDIRECT .*" replaceWith="true" sourceColName="contents"/>
+  </entity>
+ </document>
+</dataConfig>

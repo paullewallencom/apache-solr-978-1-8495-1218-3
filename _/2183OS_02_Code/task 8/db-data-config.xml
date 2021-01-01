@@ -1,0 +1,15 @@
+<dataConfig>
+ <dataSource driver="org.postgresql.Driver" url="jdbc:postgresql://localhost:5432/wikipedia" user="wikipedia" password="secret" />
+ <document>
+  <entity name="page" query="SELECT page_id, page_title from page">
+   <field column="page_id" name="id" />
+   <field column="page_title" name="name" />
+   <entity name="revision" query="select rev_id from revision where rev_page=${page.page_id}">
+    <field column="rev_id" name="revision_id" />
+    <entity name="pagecontent" query="select old_text from pagecontent where old_id=${revision.rev_id}">
+     <field column="old_text" name="contents" />
+    </entity>
+   </entity>
+  </entity>
+ </document>
+</dataConfig>

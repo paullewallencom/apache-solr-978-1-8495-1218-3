@@ -1,0 +1,22 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="title">Lucene or Solr ?</field>
+  <field name="price">11</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="title">My Solr and the rest of the world</field>
+  <field name="price">44</field>
+ </doc>
+ <doc>
+  <field name="id">3</field>
+  <field name="title">Solr recipes</field>
+  <field name="price">15</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="title">Solr cookbook</field>
+ </doc>
+</add>
+

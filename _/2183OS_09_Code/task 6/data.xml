@@ -1,0 +1,10 @@
+<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Phone</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Fone</field>
+ </doc>
+</add>

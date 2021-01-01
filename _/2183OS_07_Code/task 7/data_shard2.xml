@@ -1,0 +1,10 @@
+﻿<add>
+ <doc>
+  <field name="id">3</field>
+  <field name="title">Book 3</field>
+ </doc>
+ <doc>
+  <field name="id">4</field>
+  <field name="title">Book 4</field>
+ </doc>
+</add>

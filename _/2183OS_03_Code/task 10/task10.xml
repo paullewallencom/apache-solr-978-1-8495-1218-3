@@ -1,0 +1,12 @@
+﻿<add>
+ <doc>
+  <field name="id">1</field>
+  <field name="name">Solr cookbook</field>
+  <field name="description">This is a book that I'll show</field>
+ </doc>
+ <doc>
+  <field name="id">2</field>
+  <field name="name">Solr cookbook 2</field>
+  <field name="description">This is a book I showed</field>
+ </doc>
+</add>
